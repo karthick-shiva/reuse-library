@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karthick-shiva/reuse-library.git"
+    "url": "git+https://github.com/karthick-shiva/@mobo/reuse.git"
   },
   "author": "mobolutions",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/karthick-shiva/reuse-library/issues"
+    "url": "https://github.com/karthick-shiva/@mobo/reuse/issues"
   },
-  "homepage": "https://github.com/karthick-shiva/reuse-library#readme"
+  "homepage": "https://github.com/karthick-shiva/@mobo/reuse#readme"
 }
