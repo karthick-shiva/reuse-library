@@ -1,20 +1,20 @@
 {
-  "name": "project",
+  "name": "@mobo/reuse",
   "version": "1.0.0",
-  "description": "resue",
+  "description": "reuse lib",
   "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "foo"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/karthick-shiva/reuse-library.git"
   },
-  "keywords": [
-    "sapui5"
-  ],
   "author": "mobolutions",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/karthick-shiva/reuse-library/issues"
   },
